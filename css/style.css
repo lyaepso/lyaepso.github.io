@@ -1,0 +1,24 @@
+    body {
+    background-color: rgb(241, 188, 225);
+    margin 20px;
+    padding: 20px;
+    
+    
+}
+    h1 {
+    text-align: center;
+    color: rgb(65, 7, 119);
+    font-family: 'Langar', cursive;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(245, 99, 225);
+    }
+
+    ul {
+        color: rgb(65, 7, 119);
+        text-align: center;
+        list-style: none;
+        margin: 0;
+        padding-left: 0;
+    }
+   
